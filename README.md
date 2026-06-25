@@ -22,7 +22,7 @@ Companies receive thousands of complaints but lack visibility into:
 - Mix of monetary relief and explanation-only responses
 
 ## Files
-- `Consumer_Complaints_SQL_Queries.sql` - 13 analytical queries
+- `consumer_query.sql - 13 analytical queries
 - `Consumer_Complaints_Business_Questions_Document.docx` - Explanation of each query
 - `Consumer_Complaints_Analysis_Report.docx` - Full findings and recommendations
 
