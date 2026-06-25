@@ -22,7 +22,7 @@ Companies receive thousands of complaints but lack visibility into:
 - Mix of monetary relief and explanation-only responses
 
 ## Files
--  consumer_query.sql - 13 analytical queries
+- `consumer_query.sql` — 13 analytical SQL queries for consumer complaints analysis.
 - `Consumer_Complaints_Business_Questions_Document.docx` - Explanation of each query
 - `Consumer_Complaints_Analysis_Report.docx` - Full findings and recommendations
 
@@ -32,6 +32,11 @@ Companies receive thousands of complaints but lack visibility into:
 - Data pattern identification
 - Customer satisfaction metrics
 
+## Dashboard Preview
+
+![Consumer Complaints Dashboard](Consumer_Complaints_Dashboard.jpg)
+
 ## Tools
 - SQL Server
+- power bi
 - Data analysis
