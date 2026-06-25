@@ -37,6 +37,16 @@ Companies receive thousands of complaints but lack visibility into:
 
 ![Consumer Complaints Dashboard](Consumer_Complaints_Dashboard.jpg)
 
+## How to Run
+
+1. Download `consumer_complaints_1.csv` from this repository.
+2. Open SQL Server Management Studio (SSMS) and create a new database, for example `ConsumerComplaintsDB`.
+3. Import `consumer_complaints_1.csv` into a table in that database.
+4. Open `consumer_query.sql` in SSMS.
+5. Check that the table name in the SQL queries matches the table name you created during import.
+6. Run the 13 queries.
+7. Review `Consumer_Complaints_Dashboard.jpg` for a visual summary of the findings.
+
 ## Tools
 - SQL Server
 - power bi
