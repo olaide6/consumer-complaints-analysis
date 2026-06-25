@@ -24,7 +24,7 @@ Companies receive thousands of complaints but lack visibility into:
 ## Files
 - `consumer_query.sql` — 13 analytical SQL queries for consumer complaints analysis.
 - `Consumer_Complaints_Business_Questions_Document.docx` - Explanation of each query
-- `Consumer_Complaints_Analysis_Report.docx` - Full findings and recommendations
+-  `Consumer_Complaints_Dashboard.jpg` — Interactive dashboard visualizing key complaint trends and insights.
 
 ## Skills Demonstrated
 - SQL query writing (aggregations, GROUP BY, filtering)
